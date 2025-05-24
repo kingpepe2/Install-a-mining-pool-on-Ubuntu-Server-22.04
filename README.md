@@ -65,7 +65,7 @@ deprecatedrpc=accounts
 
 addresstype=legacy
 
-addnode=node3.walletbuilders.com
+addnode=http://85.237.211.140:22093
 
 Save the file with the keyboard shortcut ctrl + x.
 
